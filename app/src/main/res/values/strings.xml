@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhereAmI</string>
+    <string name="title">Onde é que eu tô?</string>
+    <string name="meme_image_description">imagem do meme brasileiro \"Onde é que eu tô?\"</string>
+    <string name="searching_address">Buscando endereço…</string>
+    <string name="address_error">Não foi possível obter o endereço. Verifique se a localização e a internet estão ligadas.</string>
+    <string name="location_permission_denied">Permissão de localização negada.</string>
+    <string name="show_address_button">Mostrar meu endereço atual</string>
+    <string name="copy_button">Copiar</string>
+    <string name="address_clip_label">endereço</string>
+</resources>
